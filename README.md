@@ -13,9 +13,9 @@ This is how the design looks like:
 ![registration system](./app/client/public/registration-system-1.png)
 
 ## Use
-You can use Registration System by clicking [here](https://shahzaibkhalid.github.io/registartion-system/)
+You can use Registration System by clicking [here](https://shahzaibkhalid.github.io/registration-system/)
 
 ## License
-Productive Pomodoro Clock is licensed under the [MIT License](https://github.com/shahzaibkhalid/registartion-system/blob/master/LICENSE.txt).
+Registration System is licensed under the [MIT License](https://github.com/shahzaibkhalid/registration-system/blob/master/LICENSE.txt).
 
 Copyright (c) 2017 Shahzaib Khalid
