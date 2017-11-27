@@ -2,6 +2,9 @@
 
 <p align="center">A completely unopinionated MERN based user registration system, featuring sign-up, sign-in and remember password, built with zero-dependency.</p> 
 
+## Detail
+Registration System is a hobby project built purely using MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack and didn't rely on any package to implement Sign In, Sign Up and Remember Password functionality.
+
 ## Design
 This is how the design looks like:
 ### Sign In
