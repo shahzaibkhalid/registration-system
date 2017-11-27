@@ -12,7 +12,7 @@
   "engines": {
     "node": "^8.5.0"
   },
-  "author": "Author of registration-system",
+  "author": "Shahzaib Khalid",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.17.1",
